@@ -11,14 +11,6 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Random;
 
-/**
- * @author Do
- * @package PACKAGE_NAME
- * @name ArticleTest
- * @date 2017/4/12
- * @time 13:00
- */
-
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringBootTest(classes = BlogApplication.class)
 public class ArticleTest {

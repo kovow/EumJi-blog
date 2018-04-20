@@ -11,14 +11,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 import java.util.List;
 
-/**
- * 前台文章处理controller
- * FILE: com.eumji.zblog.controller.ArticleController.java
- * MOTTO:  不积跬步无以至千里,不积小流无以至江海
- * @author: EumJi
- * DATE: 2017/5/8
- * TIME: 15:15
- */
 @Controller
 @RequestMapping("/article")
 public class ArticleController {

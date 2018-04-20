@@ -6,14 +6,7 @@ import java.io.Serializable;
 import java.util.Date;
 import java.util.List;
 
-/**
- * 自定义文章类
- * @author eumji
- * @package com.eumji.zblog.vo
- * @name ArticleCustom.java
- * @date 2017/4/12
- * @time 12:34
- */
+
 @Alias("articleCutsom")
 public class ArticleCustom implements Serializable {
 

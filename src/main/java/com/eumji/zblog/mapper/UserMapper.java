@@ -7,13 +7,6 @@ import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
 
-/**
- * FILE: com.eumji.zblog.mapper.UserMapper.java
- * MOTTO:  不积跬步无以至千里,不积小流无以至江海
- * @author: EumJi
- * DATE: 2017/4/9
- * TIME: 10:20
- */
 @Mapper
 public interface UserMapper {
     /**

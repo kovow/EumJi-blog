@@ -1,13 +1,6 @@
 package com.eumji.zblog.vo;
 
-/**
- * 上传图片的响应体
- * FILE: com.eumji.zblog.vo.PhotoResult.java
- * MOTTO:  不积跬步无以至千里,不积小流无以至江海
- * @author: EumJi
- * DATE: 2017/4/21
- * TIME: 22:20
- */
+
 public class PhotoResult {
 
     private int success;    //成功标准 0失败 1成功

@@ -4,14 +4,6 @@ import org.apache.ibatis.type.Alias;
 
 import java.io.Serializable;
 
-/**
- * 自定义分类实体
- * @author eumji
- * @package com.eumji.zblog.vo
- * @name CategoryCustom.java
- * @date 2017/4/12
- * @time 12:34
- */
 @Alias("categoryCustom")
 public class CategoryCustom implements Serializable {
 

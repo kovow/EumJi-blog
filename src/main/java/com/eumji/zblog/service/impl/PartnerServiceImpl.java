@@ -10,9 +10,6 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
-/**
- * Created by GeneratorFx on 2017-04-10.
- */
 @Service
 @Transactional
 public class PartnerServiceImpl implements PartnerService {

@@ -10,13 +10,6 @@ import org.springframework.security.config.annotation.web.builders.WebSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
 
-/**
- * FILE: com.eumji.zblog.config.WebSecurityAdapter.java
- * MOTTO:  不积跬步无以至千里,不积小流无以至江海
- * @author: EumJi
- * DATE: 2017/4/9
- * TIME: 9:33
- */
 @Configuration
 @EnableWebSecurity
 public class WebSecurityAdapter extends WebSecurityConfigurerAdapter {

@@ -9,13 +9,6 @@ import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
 
-/**
- * @author Do
- * @package com.eumji.zblog.service.impl
- * @name PagerServiceImpl
- * @date 2017/4/11
- * @time 21:46
- */
 @Service
 public class PagerServiceImpl implements PagerService {
 

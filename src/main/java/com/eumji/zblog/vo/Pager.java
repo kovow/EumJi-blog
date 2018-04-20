@@ -4,14 +4,6 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * 分页信息实体类
- * @author eumji
- * @package com.eumji.zblog.vo
- * @name Pager.java
- * @date 2017/4/11
- * @time 12:32
- */
 public class Pager<T> implements Serializable {
 
     /**

@@ -5,14 +5,7 @@ import org.apache.ibatis.type.Alias;
 import java.io.Serializable;
 import java.util.Date;
 
-/**
- * 文章实体
- * @author eumji
- * @package com.eumji.zblog.vo
- * @name Article.java
- * @date 2017/4/12
- * @time 12:34
- */
+
 @Alias("article")
 public class Article implements Serializable {
 

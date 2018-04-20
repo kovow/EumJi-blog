@@ -12,14 +12,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import javax.annotation.Resource;
 import java.util.List;
 
-/**
- * 文章归档的controller
- * FILE: com.eumji.zblog.controller.ArchiveController.java
- * MOTTO:  不积跬步无以至千里,不积小流无以至江海
- * @author: EumJi
- * DATE: 2017/5/8
- * TIME: 15:15
- */
 @Controller
 public class ArchiveController {
 

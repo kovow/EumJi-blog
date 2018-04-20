@@ -54,14 +54,10 @@ markdown编辑器
 5 - http://localhost:8080/ 访问你的主页
 
 
-## 后台模块
+## 登录用户
+* admin/admin
+* http://localhost:8080/login
 
-登陆路径 http://localhost:8080/login
-
-默认账号 admin<br>
-默认密码 admin
-
-剩下的自己玩吧!
 
 ##注意事项
 

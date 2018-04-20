@@ -1,11 +1,5 @@
 package com.eumji.zblog.constant;
 
-/**
- * @email eumji025@gmail.com
- * @author: EumJi
- * @date: 18-1-21
- * @time: 下午6:59
- */
 public class ProjectConstant {
 
     /**

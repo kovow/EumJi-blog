@@ -4,14 +4,6 @@ import org.apache.ibatis.type.Alias;
 
 import java.io.Serializable;
 
-/**
- *标签信息实体
- * FILE: com.eumji.zblog.vo.Tag.java
- * MOTTO:  不积跬步无以至千里,不积小流无以至江海
- * @author: EumJi
- * DATE: 2017/4/15
- * TIME: 11:36
- */
 @Alias("tag")
 public class Tag implements Serializable {
 

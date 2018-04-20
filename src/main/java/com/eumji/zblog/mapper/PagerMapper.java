@@ -3,14 +3,6 @@ package com.eumji.zblog.mapper;
 import com.eumji.zblog.vo.Pager;
 import org.apache.ibatis.annotations.Mapper;
 
-/**
- * 分页的mapper
- * @author EumJi
- * @package com.eumji.zblog.mapper
- * @name PagerMapper.java
- * @date 2017/4/13
- * @time 9:07
- */
 @Mapper
 public interface PagerMapper {
     /**

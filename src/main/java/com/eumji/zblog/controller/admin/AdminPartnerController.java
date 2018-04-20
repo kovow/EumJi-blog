@@ -14,15 +14,6 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.annotation.Resource;
 import java.net.URLDecoder;
 
-/**
- *
- * 后台管理员的友链操作contributor
- * FILE: com.eumji.zblog.controller.admin.PartnerController.java
- * MOTTO:  不积跬步无以至千里,不积小流无以至江海
- * @author: EumJi
- * DATE: 2017/4/14
- * TIME: 22:28
- */
 @RestController
 @RequestMapping("/admin/partner")
 public class AdminPartnerController {

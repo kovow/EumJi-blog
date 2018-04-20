@@ -12,14 +12,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import javax.annotation.Resource;
 import java.util.List;
 
-/**
- * 展示页面标签controller
- * @author EumJI
- * @package com.eumji.zblog.controller.admin
- * @name TagController
- * @date 2017/4/13
- * @time 18:54
- */
 @Controller
 @RequestMapping("/tags")
 public class TagController {

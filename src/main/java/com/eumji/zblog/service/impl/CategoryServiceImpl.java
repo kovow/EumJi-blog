@@ -13,9 +13,6 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
-/**
-* Created by GeneratorFx on 2017-04-11.
-*/
 @Service
 @Transactional
 public class CategoryServiceImpl implements CategoryService {

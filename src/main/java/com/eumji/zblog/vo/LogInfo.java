@@ -5,14 +5,6 @@ import org.apache.ibatis.type.Alias;
 import java.io.Serializable;
 import java.util.Date;
 
-/**
- * 错误日志实体类
- * @author eumji
- * @package com.eumji.zblog.vo
- * @name LogInfo
- * @date 2017/4/10
- * @time 18:14
- */
 @Alias("log")
 public class LogInfo implements Serializable {
 

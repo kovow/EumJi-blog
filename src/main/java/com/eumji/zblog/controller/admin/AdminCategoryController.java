@@ -17,14 +17,6 @@ import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;
 import java.util.List;
 
-/**
- * 后台管理的分类controller
- * FILE: com.eumji.zblog.controller.admin.AdminCategoryController.java
- * MOTTO:  不积跬步无以至千里,不积小流无以至江海
- * @author: EumJi
- * DATE: 2017/4/15
- * TIME: 14:43
- */
 @Controller
 @RequestMapping("/admin/category")
 public class AdminCategoryController {

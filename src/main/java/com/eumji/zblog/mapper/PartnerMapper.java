@@ -7,9 +7,6 @@ import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
 
-/**
-* Created by GeneratorFx on 2017-04-10.
-*/
 @Mapper
 public interface PartnerMapper {
 

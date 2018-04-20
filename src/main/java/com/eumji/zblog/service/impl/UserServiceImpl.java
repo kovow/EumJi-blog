@@ -13,9 +13,6 @@ import org.springframework.web.context.request.ServletRequestAttributes;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
 
-/**
- * Created by GeneratorFx on 2017-04-11.
- */
 @Service
 @Transactional
 public class UserServiceImpl implements UserService {

@@ -8,9 +8,6 @@ import com.eumji.zblog.vo.Pager;
 
 import java.util.List;
 
-/**
-* Created by GeneratorFx on 2017-04-11.
-*/
 public interface CategoryService {
 
 

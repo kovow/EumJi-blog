@@ -15,16 +15,6 @@ import org.springframework.stereotype.Component;
 
 import java.util.Calendar;
 
-/**
- * 使用七牛存储图片
- *
- * 2017年5月22日 修改硬编码 wei
- * FILE: com.eumji.zblog.util.PhotoUploadUtil.java
- * MOTTO:  不积跬步无以至千里,不积小流无以至江海
- * @author: EumJi
- * DATE: 2017/4/21
- * TIME: 22:08
- */
 @Component
 public class PhotoUploadUtil {
     private static Logger logger = LoggerFactory.getLogger(PhotoUploadUtil.class);

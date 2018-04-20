@@ -1,14 +1,5 @@
 package com.eumji.zblog.util;
 
-import com.eumji.zblog.vo.UserInfo;
-
-/**
- * 获取错误信息的工具类
- * file: com.eumji.zblog.util.UserInfoUtil.java
- * @author: EumJi
- * date: 2017/4/9
- * time: 15:39
- */
 public class ResultInfoFactory<T> {
 
     /**

@@ -6,13 +6,6 @@ import com.eumji.zblog.vo.Tag;
 
 import java.util.List;
 
-/**
- * @author eumji
- * package com.eumji.zblog.service
- * @name TagService
- * @date 2017/4/13
- * @time 18:55
- */
 public interface TagService {
     /**
      * 获取当前tag下的文章列表

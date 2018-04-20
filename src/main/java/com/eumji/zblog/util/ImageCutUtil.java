@@ -12,9 +12,6 @@ import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 
-/**
- * Created by eumji on 17-5-31.
- */
 public class ImageCutUtil {
 
     private static Logger logger = LoggerFactory.getLogger(ImageCutUtil.class);

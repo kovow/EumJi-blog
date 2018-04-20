@@ -16,13 +16,6 @@ import org.springframework.web.context.request.ServletRequestAttributes;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
 
-/**
- * FILE: com.eumji.zblog.auth.CustomAuthenticationProvider.java
- * MOTTO:  不积跬步无以至千里,不积小流无以至江海
- * @author: EumJi
- * DATE: 2017/4/9
- * TIME: 10:07
- */
 @Configuration
 @EnableWebSecurity
 public class CustomAuthenticationProvider implements AuthenticationProvider {

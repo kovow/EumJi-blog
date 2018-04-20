@@ -9,14 +9,6 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * 页面管理的controller
- * @author EumJi
- * package com.eumji.zblog.controller.admin
- * @name PagerController
- * @date 2017/4/11
- * @time 21:44
- */
 @RestController
 public class PagerController {
 

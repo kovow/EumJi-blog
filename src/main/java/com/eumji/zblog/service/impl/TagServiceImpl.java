@@ -11,13 +11,6 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-/**
- * @author Do
- * package com.eumji.zblog.service.impl
- * @name TagServiceImpl
- * @date 2017/4/13
- * @time 18:56
- */
 @Service
 public class TagServiceImpl implements TagService {
     @Autowired

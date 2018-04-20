@@ -3,14 +3,6 @@ package com.eumji.zblog.vo;
 import org.apache.ibatis.type.Alias;
 import java.io.Serializable;
 
-/**
- * 友链实体类
- * @author eumji
- * @package com.eumji.zblog.vo
- * @name Pager.java
- * @date 2017/4/11
- * @time 12:32
- */
 @Alias("partner")
 public class Partner implements Serializable {
 

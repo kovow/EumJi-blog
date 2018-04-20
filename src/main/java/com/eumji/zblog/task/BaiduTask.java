@@ -14,15 +14,8 @@ import java.net.URL;
 
 /**
  * 百度推送的工具类
- * 2017年5月22日 将百度推送硬编码改为读配置文件
  *
- * 防止勿推送到我的域名,所以注释了
  * 请自己在application.yml文件中配置
- * FILE: com.eumji.zblog.task.BaiduTask.java
- * MOTTO:  不积跬步无以至千里,不积小流无以至江海
- * @author: EumJi
- * DATE: 2017/4/28
- * TIME: 20:23
  */
 @Component
 public class BaiduTask {

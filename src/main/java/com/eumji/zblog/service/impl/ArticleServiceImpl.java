@@ -17,9 +17,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Random;
 
-/**
- * Created by GeneratorFx on 2017-04-11.
- */
+
 @Service
 @Transactional(rollbackFor = Exception.class)
 public class ArticleServiceImpl implements ArticleService {

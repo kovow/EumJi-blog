@@ -20,10 +20,7 @@ import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 
-/**
- * 上传图片的controller
- * Created by eumji on 17-5-31.
- */
+
 @RestController
 public class ImageController {
 

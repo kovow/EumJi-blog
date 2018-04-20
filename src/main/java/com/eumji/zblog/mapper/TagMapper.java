@@ -7,13 +7,6 @@ import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
 
-/**
- * @author Do
- * @package com.eumji.zblog.mapper
- * @name TagMapper
- * @date 2017/4/13
- * @time 18:55
- */
 @Mapper
 public interface TagMapper {
     /**

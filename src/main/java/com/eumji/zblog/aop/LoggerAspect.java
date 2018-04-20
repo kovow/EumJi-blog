@@ -21,11 +21,6 @@ import java.util.Date;
 
 /**
  * 日志切入类
- * @author EumJi
- * @package com.eumji.zblog.config
- * @name LoggerAspect
- * @date 2017/4/10
- * @time 18:08
  */
 @Aspect
 @Component

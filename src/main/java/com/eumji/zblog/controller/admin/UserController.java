@@ -17,13 +17,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
 
-/**
- * FILE: com.eumji.zblog.controller.admin.LoginController.java
- * MOTTO:  不积跬步无以至千里,不积小流无以至江海
- * @author: EumJi
- * DATE: 2017/4/9
- * TIME: 15:32
- */
 @Controller
 public class UserController {
 

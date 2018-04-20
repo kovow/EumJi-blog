@@ -18,7 +18,9 @@
 --
 -- Table structure for table `article`
 --
-
+drop database if exists enuj_ji_blog;
+create database enuj_ji_blog;
+use enuj_ji_blog;
 DROP TABLE IF EXISTS `article`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;

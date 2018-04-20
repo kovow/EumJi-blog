@@ -21,14 +21,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * 后台管理 文章controller
- * FILE: com.eumji.zblog.controller.admin.AdminArticleController.java
- * MOTTO:  不积跬步无以至千里,不积小流无以至江海
- * @author: EumJi
- * DATE: 2017/4/15
- * TIME: 22:00
- */
 @Controller
 @RequestMapping("/admin/article")
 public class AdminArticleController {

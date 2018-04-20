@@ -1,13 +1,5 @@
 package com.eumji.zblog.util;
 
-/**
- * REST请求相应体
- * FILE: com.eumji.zblog.util.ResultInfo.java
- * MOTTO:  不积跬步无以至千里,不积小流无以至江海
- * @author: EumJi
- * DATE: 2017/4/9
- * TIME: 15:34
- */
 public class ResultInfo<T> {
 
     // 操作结果

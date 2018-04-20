@@ -9,10 +9,6 @@ import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
 
-/**
- * 分类的mapper接口
-* Created by GeneratorFx on 2017-04-11.
-*/
 @Mapper
 public interface CategoryMapper {
 

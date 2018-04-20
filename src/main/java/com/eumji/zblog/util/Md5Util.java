@@ -6,14 +6,6 @@ import org.slf4j.LoggerFactory;
 import java.security.MessageDigest;
 
 
-/**
- * md5加密工具类
- * FILE: com.eumji.zblog.util.Md5Util.java
- * MOTTO:  不积跬步无以至千里,不积小流无以至江海
- * @author: EumJi
- * DATE: 2017/4/9
- * TIME: 15:34
- */
 public class Md5Util {
 	private static Logger logger = LoggerFactory.getLogger(Md5Util.class);
 
